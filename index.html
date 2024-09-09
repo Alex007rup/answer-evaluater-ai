@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Answer Evaluater Ai</title>
+  <link rel="icon" href="./learn_8307744.png" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="title">
+    <img src="./learn_8307744.png" alt="" height="45px">
+    <h1>Answer Evaluater Ai</h1>
+  </div>
+
+  <div class="custom-select-wrapper">
+    <select name="subjects" id="subjects" class="custom-select">
+      <option value="" disabled selected>Choose Subject</option>
+      <option value="dataStructures">Data Structures</option>
+      <option value="algorithms">Algorithms</option>
+      <option value="operatingSystems">Operating System</option>
+      <option value="databases">Databases</option>
+      <option value="networking">Networking</option>
+      <option value="programmingLanguages">Programming Languages</option>
+      <option value="aiAndMachineLearning">AI & ML</option>
+      <option value="cybersecurity">Cybersecurity</option>
+      <option value="softwareEngineering">Software Engineering</option>
+      <option value="cloudComputing">Cloud Computing</option>
+    </select>
+  </div>
+
+  <div id="main">
+    <div id="question" class="question-container"></div>
+  </div>
+
+
+  <script type="importmap">
+    {
+      "imports": {
+        "@google/generative-ai": "https://esm.run/@google/generative-ai"
+      }
+    }
+  </script>
+  <script type="module" src="./script.js"></script>
+</body>
+
+</html>
