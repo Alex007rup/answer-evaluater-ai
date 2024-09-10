@@ -9,9 +9,9 @@ This project is a question-answer evaluator using the **Gemini API**. It evaluat
 
 ## Technologies Used:
 <p align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="JavaScript" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" alt="HTML" height="50"/>
 </p>
 
 - **JavaScript**: Handles the logic, API integration, and DOM manipulation.
