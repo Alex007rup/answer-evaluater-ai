@@ -8,16 +8,14 @@ This project is a question-answer evaluator using the **Gemini API**. It evaluat
 - **Real-Time Response**: Offers instant feedback with accuracy and relevance metrics.
 
 ## Technologies Used:
-<p align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="JavaScript" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" alt="HTML" height="50"/>
-</p>
-
 - **JavaScript**: Handles the logic, API integration, and DOM manipulation.
 - **CSS**: Provides styling and layout for the user interface.
 - **HTML**: Structures the basic UI elements.
 - **Gemini API**: Evaluates user responses for relevance and provides feedback.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-00DCFA?style=flat-square&logo=gemini&logoColor=white)
   
 ## Prerequisites:
 - Node.js and npm installed on your machine.
