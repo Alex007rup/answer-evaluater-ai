@@ -9,8 +9,8 @@ This project is a question-answer evaluator using the **Gemini API**. It evaluat
 
 ## Technologies Used:
 - **Gemini API**: For AI-based evaluation and response generation.
-- **Node.js/JavaScript**: For backend handling.
-- **Express.js**: To create a RESTful API for communication.
+- **JavaScript**: For backend handling.
+- [![Gemini API Logo](https://example.com/path-to-gemini-logo.png)](https://www.gemini.com) 
   
 ## Prerequisites:
 - Node.js and npm installed on your machine.
