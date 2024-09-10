@@ -20,5 +20,5 @@ This project is a question-answer evaluator using the **Gemini API**. It evaluat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/question-answer-evaluator.git
-   cd question-answer-evaluator
+   git clone https://github.com/Alex007rup/answer-evaluater-ai.git
+   cd answer-evaluator-ai
