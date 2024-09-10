@@ -8,9 +8,16 @@ This project is a question-answer evaluator using the **Gemini API**. It evaluat
 - **Real-Time Response**: Offers instant feedback with accuracy and relevance metrics.
 
 ## Technologies Used:
-- **Gemini API**: For AI-based evaluation and response generation.
-- **JavaScript**: For backend handling.
-- [![Gemini API Logo](https://example.com/path-to-gemini-logo.png)](https://www.gemini.com) 
+<p align="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" alt="HTML" width="50" height="50"/>
+</p>
+
+- **JavaScript**: Handles the logic, API integration, and DOM manipulation.
+- **CSS**: Provides styling and layout for the user interface.
+- **HTML**: Structures the basic UI elements.
+- **Gemini API**: Evaluates user responses for relevance and provides feedback.
   
 ## Prerequisites:
 - Node.js and npm installed on your machine.
