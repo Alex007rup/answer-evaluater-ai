@@ -18,7 +18,6 @@ This project is a question-answer evaluator using the **Gemini API**. It evaluat
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-00DCFA?style=flat-square&logo=gemini&logoColor=white)
   
 ## Prerequisites:
-- Node.js and npm installed on your machine.
 - Gemini API credentials (You can obtain these by signing up at the [Gemini API website](https://www.gemini.com)).
 
 ## Installation:
